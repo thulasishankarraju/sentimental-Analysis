@@ -1,5 +1,4 @@
 # sentimental-Analysis
-# Sentiment Analysis Web Application
 
 ## Overview
 This project is a simple AI-based Sentiment Analysis Web Application developed using Flask and TextBlob.  
